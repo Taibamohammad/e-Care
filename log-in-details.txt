@@ -1,0 +1,23 @@
+admin username:
+
+admin@edoc.com
+
+password:
+
+123
+
+doctor/caregiver username:
+
+doctor@edoc.com
+
+password:
+
+123
+
+patient username:
+
+patient@edoc.com
+
+password:
+
+123
